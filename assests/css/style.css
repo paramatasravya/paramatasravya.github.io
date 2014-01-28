@@ -1,5 +1,4 @@
-
-body {
+	body {
         margin: 0px;
 		font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
 		font-size: 14px;
@@ -148,8 +147,8 @@ body {
 		}
 		
 		.profile-pic{
-			max-width: 600px;
-			max-height: 800px;
+			max-width: 300px;
+			max-height: 400px;
 			vertical-align: middle;
 		}
 		
