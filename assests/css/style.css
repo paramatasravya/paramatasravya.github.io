@@ -149,7 +149,8 @@
 		.profile-pic{
 			max-width: 400px;
 			max-height: 600px;
-			border:1px solid #021a40;
+			 padding:1px;
+			border:2px solid #021a40;
 			vertical-align: middle;
 		}
 		
